@@ -1,6 +1,6 @@
 const clientId = "f70aff13e5bb434d802c8b3a29c1360e";
 
-const redirectUri = "https://scottpickering31.github.io/scottify-app/";
+const redirectUri = "http://scottpickering31.github.io/scottify-app/";
 let accessToken;
 
 const Spotify = {

@@ -26,7 +26,7 @@ Scottify is an online desktop Spotify playlist creator app, built with React and
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/scottify.git
+   git clone https://github.com/scottpickering31/scottify-app.git
    ```
 
 2. **Install Dependancies**

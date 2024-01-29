@@ -2,6 +2,8 @@
 
 Scottify is an online desktop Spotify playlist creator app, built with React and JavaScript. The app utilizes the Spotify API to pull information such as albums, song titles, and artists, enabling users to effortlessly create extensive playlists in no time. Once a playlist is created within the app, users can check their Spotify application to see the playlist added to their account.
 
+![Scottify-Mockups](https://github.com/scottpickering31/scottify-app/assets/97522229/3fe77989-5202-4e89-959d-70d0172de6c1)
+
 ## Features
 
 - **Spotify Integration**
@@ -45,3 +47,13 @@ npm start
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
+
+## Screenshots
+
+
+![Scottify-Iphone-Mockup](https://github.com/scottpickering31/scottify-app/assets/97522229/4c9aeb78-340a-45cd-a1ca-f4591428f785)
+
+![Scottify-Ipad-Mockup](https://github.com/scottpickering31/scottify-app/assets/97522229/496e47e5-a8ca-495f-91ef-25d89c227d5c)
+
+![Scottify-Macbook-Mockup](https://github.com/scottpickering31/scottify-app/assets/97522229/349e6d4a-ca31-4ca4-a13d-9f79b0794078)
+
